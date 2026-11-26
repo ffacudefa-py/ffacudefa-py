@@ -1,29 +1,29 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Facundo Defagot · Indie Developer · Buenos Aires, Argentina"/>
+  <img src="assets/header_azul.svg" width="100%" alt="Facundo Defagot · Indie Developer · Buenos Aires, Argentina"/>
 </p>
 
 <p align="center">
-  <img src="assets/sobre_mi.svg" width="100%" alt="Sobre mí: desarrollador independiente de Buenos Aires. Backend, interfaz/UI y juegos móviles."/>
+  <img src="assets/sobre_mi_azul.svg" width="100%" alt="Sobre mí: desarrollador independiente de Buenos Aires. Backend, interfaz/UI y juegos móviles."/>
 </p>
 
 <p align="center">
-  <img src="assets/proyecto.svg" width="100%" alt="Proyecto destacado: Coronados de Gloria, un tycoon argentino en pixel art para Android. Prueba cerrada."/>
+  <img src="assets/proyecto_azul.svg" width="100%" alt="Proyecto destacado: Coronados de Gloria, un tycoon argentino en pixel art para Android. Prueba cerrada."/>
 </p>
 
 <p align="center">
   <a href="https://coronadosdegloria.web.app/pioneros.html">
-    <img src="assets/boton_pionero.svg" width="380" alt="Quiero ser pionero: preregistro de Coronados de Gloria"/>
+    <img src="assets/boton_pionero_azul.svg" width="380" alt="Quiero ser pionero: preregistro de Coronados de Gloria"/>
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack tecnológico: Python, C++, SQL, HTML5, CSS3"/>
+  <img src="assets/stack_azul.svg" width="100%" alt="Stack tecnológico: Python, C++, SQL, HTML5, CSS3"/>
 </p>
 
 <p align="center">
-  <img src="assets/titulo_actividad.svg" width="100%" alt="Actividad en GitHub"/>
+  <img src="assets/titulo_actividad_azul.svg" width="100%" alt="Actividad en GitHub"/>
 </p>
 
 <p align="center">
@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/pie.svg" width="100%" alt="Gracias por pasar"/>
+  <img src="assets/pie_azul.svg" width="100%" alt="Gracias por pasar"/>
 </p>
