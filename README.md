@@ -1,46 +1,65 @@
-<h1 align="center">¡Hola! 👋 Bienvenido a mi perfil</h1>
-
+<!-- ═══════════════ CABECERA ═══════════════ -->
 <p align="center">
-  Desarrollador indie de <b>Buenos Aires, Argentina</b> 🇦🇷<br>
-  Me especializo en <b>backend</b> y <b>diseño de interfaces (UI)</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2A44&height=200&section=header&text=Facundo%20Defagot&fontSize=46&fontColor=E3B341&fontAlignY=38&desc=Indie%20Developer%20·%20Buenos%20Aires,%20Argentina&descSize=16&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Cabecera"/>
 </p>
 
----
-
-## 🎮 En qué estoy trabajando
-
-Estoy desarrollando varios juegos para celulares. El principal es:
-
-### 👑 Coronados de Gloria
-
-> 📲 **¡Preregistrate y sé uno de los pioneros!**
----
-
-## 🛠️ Tecnologías
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=E3B341&center=true&vCenter=true&width=520&lines=Backend+Developer;UI+%2F+Interface+Designer;Creando+juegos+m%C3%B3viles+%F0%9F%8E%AE" alt="Typing SVG"/>
 </p>
 
----
+<br>
 
-## 📊 Estadísticas
+<!-- ═══════════════ SOBRE MÍ ═══════════════ -->
+<h3 align="center">— Sobre mí —</h3>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=ffacudefa-py&theme=prussian&locale=es&timezone=America/Argentina/Buenos_Aires&mode=weekly" alt="Racha de GitHub" height="170">
-  </a>
-  <a href="https://github.com/ffacudefa-py?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ffacudefa-py&hide_title=true&langs_count=4&theme=prussian&layout=compact" alt="Lenguajes principales" height="170">
+  Desarrollador independiente especializado en <b>arquitectura backend</b> y <b>diseño de interfaces</b>.<br>
+  Actualmente dedicado al desarrollo de juegos para dispositivos móviles.
+</p>
+
+<br>
+
+<!-- ═══════════════ PROYECTO DESTACADO ═══════════════ -->
+<h3 align="center">— Proyecto destacado —</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👑_CORONADOS_DE_GLORIA-0D1117?style=for-the-badge&labelColor=0D1117" height="40" alt="Coronados de Gloria"/>
+</p>
+
+<p align="center">
+  <i>Juego móvil en desarrollo · Próximamente en Google Play</i>
+</p>
+
+<p align="center">
+  <a href="https://coronadosdegloria.web.app/pioneros.html">
+    <img src="https://img.shields.io/badge/PREREGISTRO-UNITE_A_LOS_PIONEROS_→-E3B341?style=for-the-badge&labelColor=0D1117" height="34" alt="Preregistro"/>
   </a>
 </p>
 
----
+<br>
+
+<!-- ═══════════════ TECNOLOGÍAS ═══════════════ -->
+<h3 align="center">— Stack tecnológico —</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ffacudefa-py&color=0e75b6&style=flat-square&label=Visitas+al+perfil" alt="Visitas al perfil">
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=E3B341" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=E3B341" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=E3B341" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E3B341" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=E3B341" alt="CSS3"/>
+</p>
+
+<br>
+
+<!-- ═══════════════ ESTADÍSTICAS ═══════════════ -->
+<h3 align="center">— Actividad en GitHub —</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ffacudefa-py&locale=es&timezone=America/Argentina/Buenos_Aires&mode=weekly&hide_border=true&background=0D1117&ring=E3B341&fire=E3B341&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E3B341&sideLabels=8B949E&dates=8B949E&stroke=30363D" height="165" alt="Racha"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ffacudefa-py&layout=compact&langs_count=4&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9&custom_title=Lenguajes%20principales" height="165" alt="Lenguajes"/>
+</p>
+
+<!-- ═══════════════ PIE ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2A44,100:0D1117&height=110&section=footer" width="100%" alt="Pie"/>
 </p>
