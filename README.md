@@ -1,6 +1,6 @@
 <!-- ═══════════════ CABECERA ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F2A44&height=200&section=header&text=Facundo%20Defagot&fontSize=46&fontColor=E3B341&fontAlignY=38&desc=Indie%20Developer%20·%20Buenos%20Aires,%20Argentina&descSize=16&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Cabecera"/>
+  <img src="assets/header.svg" width="100%" alt="Facundo Defagot · Indie Developer · Buenos Aires, Argentina"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,9 @@
 <h3 align="center">— Proyecto destacado —</h3>
 
 <p align="center">
-  <img src="assets/coronados.svg" height="40" alt="Coronados de Gloria"/>
+  <img src="assets/icono_app.png" height="130" alt="Ícono de Coronados de Gloria"/>
+  &nbsp;&nbsp;
+  <img src="assets/logo_coronados.png" height="130" alt="Logo de Coronados de Gloria"/>
 </p>
 
 <p align="center">
