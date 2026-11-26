@@ -23,7 +23,7 @@
 <h3 align="center">— Proyecto destacado —</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👑_CORONADOS_DE_GLORIA-0D1117?style=for-the-badge&labelColor=0D1117" height="40" alt="Coronados de Gloria"/>
+  <img src="assets/coronados.svg" height="40" alt="Coronados de Gloria"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://coronadosdegloria.web.app/pioneros.html">
-    <img src="https://img.shields.io/badge/PREREGISTRO-UNITE_A_LOS_PIONEROS_→-E3B341?style=for-the-badge&labelColor=0D1117" height="34" alt="Preregistro"/>
+    <img src="assets/preregistro.svg" height="34" alt="Preregistro"/>
   </a>
 </p>
 
@@ -42,11 +42,11 @@
 <h3 align="center">— Stack tecnológico —</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=E3B341" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=E3B341" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=E3B341" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E3B341" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=E3B341" alt="CSS3"/>
+  <img src="assets/python.svg" alt="Python"/>
+  <img src="assets/cpp.svg" alt="C++"/>
+  <img src="assets/sql.svg" alt="SQL"/>
+  <img src="assets/html5.svg" alt="HTML5"/>
+  <img src="assets/css3.svg" alt="CSS3"/>
 </p>
 
 <br>
