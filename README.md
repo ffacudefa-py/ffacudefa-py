@@ -27,8 +27,8 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ffacudefa-py&locale=es&timezone=America/Argentina/Buenos_Aires&mode=weekly&hide_border=true&border_radius=14&background=0D1117&ring=E3B341&fire=E3B341&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E3B341&sideLabels=8B949E&dates=8B949E&stroke=30363D" height="165" alt="Racha"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ffacudefa-py&layout=compact&langs_count=4&hide_border=true&border_radius=14&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9&custom_title=Lenguajes%20principales" height="165" alt="Lenguajes"/>
+  <img src="https://streak-stats.demolab.com?user=ffacudefa-py&locale=es&timezone=America/Argentina/Buenos_Aires&mode=weekly&hide_border=true&border_radius=14&background=003D8F&ring=FFCD50&fire=D40000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFCD50&sideLabels=BFD0EC&dates=BFD0EC&stroke=FFCD50" height="140" alt="Racha"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=ffacudefa-py&layout=compact&langs_count=4&hide_border=true&border_radius=14&bg_color=003D8F&title_color=FFCD50&text_color=EEEEEE&custom_title=Lenguajes%20principales" height="140" alt="Lenguajes"/>
 </p>
 
 <p align="center">
